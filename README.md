@@ -1,3 +1,5 @@
+## **ATTENTION: This repository has been archived! DO NOT USE ANY FILES IN THIS REPO FOR A HACKINTOSH PROJECT. OpenCore has been updated significantly since this repository was last modified, using files here will result in bad things! Use only for reference!**
+
 ![Not my Mac but whatever](https://macfinder.co.uk/wp-content/uploads/2019/06/img-Mac-Pro-06042.jpg)
 # ctaetcsh's HaccMac Files
 Files related to my Hackintosh project.
